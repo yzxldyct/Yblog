@@ -1,0 +1,73 @@
+@charset "utf-8";
+/*
+作者：新鲜人
+地址：http://www.htmlit.com.cn
+邮箱：u2lei@yahoo.com.cn
+     xinxr@msn.com
+*/
+#txcstxsm{display:none; background-color:#fff;width: 92% !important;margin:0 2% 0 2%; padding:2%;border-radius: 3px;}
+#txcstxsm h2{margin:0; font-size:1.2em; line-height:2.4; border-bottom:1px solid #ccc;}
+#txcstxsm p{margin:0.5em 0 0.5em 0;}
+#txcstxsm p b{color:#c00;}
+.tingyong{display:none;background: #3A6EA5 none repeat scroll 0% 0%;margin:2%;width: 96% !important;border-radius: 3px; height:40px; line-height:40px; color:#fff; text-align:center;font-size:1.2em;}
+
+@media screen and (max-width: 980px){
+body{min-width:100%;background-color:#ddd!important;}
+td, th{padding:0;border:0;}
+tr.color1{line-height:40px;}
+#divMain2 table p{padding:0 7px 0 7px;}
+.main {padding:0!important;}
+#divMain{width: 96% !important;margin:0 2% 0 2%;}
+.header{background-color:#ddd;height:80px;}
+.left #leftmenu span{width:40px;height:40px;line-height:20px;margin:0;padding:0;text-align:center;}
+#leftmenu #nav_new span,#leftmenu #nav_comment span,#leftmenu #nav_article span,#leftmenu #nav_new.on span,#leftmenu #nav_comment.on span,#leftmenu #nav_article.on span{background-image:none!important;}
+.menu{height:60px;}
+.header .logo,.user,.left #leftmenu li,.menu ul li,.divHeader,#tbStatistic tr,#thankslist,form.search,.tableBorder .color1,.tableBorder .td5,.tableBorder .td10,.tableBorder .td15,.tableBorder .td20,input[type="checkbox"],.SubMenu,#tbUpdateInfo,.login dd.checkbox,input[name="all_del"],input[name="all_audit"]{display:none;}   
+.SubMenu{display:none!important;}
+.tableBorder .tdCenter{display:block!important;width:80px!important;padding:5%;}
+.left {position: relative;margin-top:-77px;width:70%;}
+.menu ul li,.left #leftmenu li{width:60px;height:60px;margin:0 0 10px 10px;padding:0;border-radius: 30px;}
+.left #leftmenu li#nav_new,.left #leftmenu li#nav_comment,.left #leftmenu li#nav_article,.menu ul li#topmenu1,#tbStatistic tr.color1{display:block;}
+.menu ul li a,.menu ul li a:hover,.left #leftmenu li a{width:40px!important;height:40px!important;line-height:20px;margin:0;padding:10px;border-radius: 30px;color:#fff;}
+.left #leftmenu li a,.left #leftmenu #on a:hover,.left #leftmenu .on a:hover{background-color:#09c;}
+.menu { position: relative;padding-top:10px;}
+.menu ul li a{background-color:#b0cdee;}
+.left #leftmenu .on a{background-color:#ff6f3d;}
+.tableFull tr td{padding:2%;width:96%;}
+.tableFull tr td div{max-width:100%!important;word-wrap: break-word;}
+form#edit{margin:0;}
+#divEditLeft{padding:2%;width:96%;background-color:#fff;border-radius:0 0 3px 3px;}
+.divHeader2{background-color:#EDEDED!important;background-image:none!important;padding:0 0 0 8px!important;border: 1px solid #E1E1E1;line-height:40px;height:40px;font-size: 15px;font-weight:700;}
+#divEditRight{float:left; width:100%;margin:30px 0 15px 0;text-align:left;background-color:#fff;border-radius: 3px;}
+#divBox { width:100%; position:relative;}
+#divFloat,form p { width:100%;line-height:1em;}
+#divFloat input.button{	margin:0.2em 0;width:100%!important;border-radius: 3px;-webkit-appearance: none;}
+#divEditPost{padding:0 2% 0 2%;width:96%;margin:0;}
+.boxfloat{position: relative;_position: absolute;top: 0px;z-index: 295;}
+.editmod2{padding:0;margin:10px 0 10px 0;}
+div.post_edit input#edtTitle{padding:1%;width:97%;line-height: 1.5em;border-radius: 3px;}
+.editinputname{display:block;}
+div.post_edit input#edtAlias, input#edtTag,input#edtDateTime{padding:1%;width:97%!important;border-radius: 3px;}
+select{padding:1%;width:100%!important;margin:5px 0 5px 0;border-radius: 3px;}
+#istop,#islock{float:left;display: inline-block;margin-right:20px;}
+input[type="submit"]{width:100%;margin:0;border-radius: 3px;border:0; height:38px;line-height:38px;-webkit-appearance: none;}
+.pagebar{width: 100%;clear: both;margin-bottom: 10px;text-align:center;padding:0;}
+.pagebar a,.pagebar .now-page{padding:4px 10px 4px 10px;color: #333333;display:inline-block;clear: both;border: 1px solid #dddddd;margin:0 3px 3px 0;border-radius: 4px;background-color:#fff;}
+.pagebar a:hover,.pagebar .now-page{color: #FFFFFF!important;background-color: #0099cc;border: 1px solid #0099bb;}
+#edui1_iframeholder{ height:100px!important;}
+.edui-default .edui-dialog{position:relative;}
+.edui-default .edui-for-insertimage .edui-dialog-content{width:300px!important;padding:0!important; }
+.edui-default .edui-dialog-body{width:300px!important;padding:0!important;overflow:hidden;}
+.edui-default .edui-for-insertimage .edui-dialog-conten,.edui-default .edui-for-attachment .edui-dialog-content{width:90%!important;padding:5%!important;}
+#txcstxsm,.tingyong{display:block;}
+
+.bg{height:120px;}
+.logo {margin:30px auto 20px auto;}
+.login { width:96%; padding:2%;}
+.login dd { width:98%; float:left;padding:1%;}
+.login dd.submit { width:100%; float:right;padding:0;margin:20px 0 40px 0;}
+.button{ width:100%; height:48px;border-radius: 3px;-webkit-appearance: none;}
+#edtUserName, #edtPassWord { float:right;width:96%; padding:2%;border-radius: 3px;}
+input[type="checkbox"]{margin:8px 0 0 5px;}
+dd.username label, dd.password label{ display:block; width:100%; padding:0; text-align:left;}
+}

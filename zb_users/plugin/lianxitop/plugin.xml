@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>lianxitop</id>
+<name>响应式返回顶部</name>
+<url>lianxitop</url>
+<note>响应式返回顶部</note>
+<description>可变透明度的jQuery响应式返回顶部，如果向下滚动超过1200像素，按钮的透明度会下降，减少视觉干扰，更便于浏览内容主体，非常贴心的用户体验，而且当屏幕缩小时，返回顶部按钮会自动缩放，适合响应式网站使用，兼容主流浏览器，推荐下载！</description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>orz</name>
+  <email></email>
+  <url></url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>150101</adapted>
+<version>0.1</version>
+<pubdate>2015-03-18</pubdate>
+<modified>2015-04-09</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

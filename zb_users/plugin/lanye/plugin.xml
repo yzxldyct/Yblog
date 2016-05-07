@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>lanye</id>
+<name>蓝叶火箭返回顶部</name>
+<url>http://www.xiancs.com</url>
+<note>蓝叶火箭返回顶部 EM搬来的 觉得好看而已</note>
+<description>蓝叶火箭返回顶部 EM搬来的 觉得好看而已</description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>流年岁月</name>
+  <email>372664700@qq.com</email>
+  <url>http://www.fengwensheng.com/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.0</version>
+<pubdate>2014-07-29</pubdate>
+<modified>2014-07-29</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

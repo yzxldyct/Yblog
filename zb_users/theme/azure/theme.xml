@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>azure</id>
+<name>Azure主题</name>
+<url>http://www.itbulu.com/zbp-azure.html</url>
+<note>响应式个人博客主题。</note>
+<description>简单的响应式个人博客主题，仿自WORDPRESS同名主题，希望ZBLOG PHP用户也可以使用到。并且做了细节的修改适应SEO需求。</description>
+<path></path>
+<include></include>
+<level>1</level>
+<author>
+  <name>老蒋</name>
+  <email>admin@itbulu.com</email>
+  <url>http://www.itbulu.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.0</version>
+<pubdate>2014-11-02</pubdate>
+<modified>2015-01-04</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
